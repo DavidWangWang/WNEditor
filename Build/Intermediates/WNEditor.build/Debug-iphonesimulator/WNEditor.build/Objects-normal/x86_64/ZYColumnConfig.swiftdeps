@@ -1,0 +1,226 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "kColumnScreenW"
+- "kColumnScreenH"
+- "kColumnViewH"
+- "kColumnViewW"
+- "kSpreadMaxH"
+- "kSpreadDuration"
+- "kColumnLayoutCount"
+- "kColumnItemH"
+- "kColumnItemW"
+- "kColumnMarginW"
+- "kColumnMarginH"
+- "kColumnEditBtnW"
+- "kColumnEditBtnH"
+- "kColumnEditBtnFont"
+- "kColumnEditBtnNorTitle"
+- "kColumnEditBtnSelTitle"
+- "kColumnItemBorderColor"
+- "kColumnItemColor"
+- "kColumnTitleMargin"
+- "kColumnTitleNorColor"
+- "kColumnTitleSelColor"
+- "kColumnTitleNorFont"
+- "kColumnTitleSelFont"
+- "kColumnHasIndicator"
+- "kColumnIndictorH"
+- "kColumnIndictorMinW"
+- "kColumnIndicatorColor"
+- "ZYinch35"
+- "ZYinch40"
+- "ZYinch47"
+- "ZYinch55"
+- "ZYScreenWidth"
+- "ZYScreenHeight"
+provides-nominal:
+provides-member:
+provides-dynamic-lookup:
+depends-top-level:
+- "ZYScreenHeight"
+- "*"
+- "kColumnEditBtnH"
+- "StringLiteralType"
+- "kColumnTitleSelFont"
+- "-"
+- "ZYScreenWidth"
+- "ZYinch55"
+- "kColumnItemColor"
+- "kColumnLayoutCount"
+- "+"
+- "UIScreen"
+- "kColumnScreenW"
+- "kColumnMarginH"
+- "kColumnMarginW"
+- !private "=="
+- "kColumnTitleMargin"
+- "Bool"
+- "||"
+- "kColumnItemBorderColor"
+- "kColumnViewW"
+- "kColumnIndictorH"
+- "ZYinch47"
+- "/"
+- "CGFloat"
+- "kColumnHasIndicator"
+- "ZYinch35"
+- "UIColor"
+- "kColumnTitleNorColor"
+- "kColumnEditBtnFont"
+- "BooleanLiteralType"
+- "kColumnTitleNorFont"
+- "kColumnItemH"
+- "kColumnItemW"
+- "kColumnScreenH"
+- "ZYinch40"
+- "kColumnEditBtnW"
+- "kColumnEditBtnNorTitle"
+- "kSpreadMaxH"
+- "kColumnEditBtnSelTitle"
+- "kColumnIndicatorColor"
+- "kColumnIndictorMinW"
+- "kColumnViewH"
+- "kColumnTitleSelColor"
+- "kSpreadDuration"
+depends-member:
+- ["Ps16AbsoluteValuable", "init"]
+- ["Ps9AnyObject", "CGColor"]
+- ["Ps9AnyObject", "bounds"]
+- ["Ps9AnyObject", "darkTextColor"]
+- ["Ps9AnyObject", "mainScreen"]
+- ["Ps9AnyObject", "redColor"]
+- ["Sb", "_getBuiltinLogicValue"]
+- ["Ps25BooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- ["Ps11BooleanType", "_getBuiltinLogicValue"]
+- ["V12CoreGraphics7CGFloat", "deinit"]
+- ["V12CoreGraphics7CGFloat", "init"]
+- ["VSC6CGRect", "height"]
+- ["VSC6CGRect", "size"]
+- ["VSC6CGRect", "width"]
+- ["VSC6CGSize", "height"]
+- ["VSC6CGSize", "width"]
+- ["Ps11CVarArgType", "CGColor"]
+- ["Ps11CVarArgType", "bounds"]
+- ["Ps11CVarArgType", "darkTextColor"]
+- ["Ps11CVarArgType", "init"]
+- ["Ps11CVarArgType", "mainScreen"]
+- ["Ps11CVarArgType", "redColor"]
+- ["Ps10Comparable", "init"]
+- ["Ps28CustomDebugStringConvertible", "CGColor"]
+- ["Ps28CustomDebugStringConvertible", "bounds"]
+- ["Ps28CustomDebugStringConvertible", "darkTextColor"]
+- ["Ps28CustomDebugStringConvertible", "mainScreen"]
+- ["Ps28CustomDebugStringConvertible", "redColor"]
+- ["Ps23CustomStringConvertible", "CGColor"]
+- ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- ["Ps23CustomStringConvertible", "bounds"]
+- ["Ps23CustomStringConvertible", "darkTextColor"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "mainScreen"]
+- ["Ps23CustomStringConvertible", "redColor"]
+- ["Ps9Equatable", "CGColor"]
+- ["Ps9Equatable", "_getBuiltinLogicValue"]
+- ["Ps9Equatable", "bounds"]
+- ["Ps9Equatable", "darkTextColor"]
+- ["Ps9Equatable", "height"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "mainScreen"]
+- ["Ps9Equatable", "redColor"]
+- ["Ps9Equatable", "size"]
+- ["Ps9Equatable", "width"]
+- ["Ps23FloatLiteralConvertible", "init"]
+- ["Ps17FloatingPointType", "init"]
+- ["Ps8Hashable", "CGColor"]
+- ["Ps8Hashable", "_getBuiltinLogicValue"]
+- ["Ps8Hashable", "bounds"]
+- ["Ps8Hashable", "darkTextColor"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "mainScreen"]
+- ["Ps8Hashable", "redColor"]
+- ["Ps25IntegerLiteralConvertible", "init"]
+- ["PSo8NSCoding", "CGColor"]
+- ["PSo8NSCoding", "darkTextColor"]
+- ["PSo8NSCoding", "redColor"]
+- ["PSo9NSCopying", "CGColor"]
+- ["PSo9NSCopying", "darkTextColor"]
+- ["PSo9NSCopying", "redColor"]
+- ["CSo8NSObject", "CGColor"]
+- ["CSo8NSObject", "bounds"]
+- ["CSo8NSObject", "darkTextColor"]
+- ["CSo8NSObject", "mainScreen"]
+- ["CSo8NSObject", "redColor"]
+- ["PSo16NSObjectProtocol", "CGColor"]
+- ["PSo16NSObjectProtocol", "bounds"]
+- ["PSo16NSObjectProtocol", "darkTextColor"]
+- ["PSo16NSObjectProtocol", "mainScreen"]
+- ["PSo16NSObjectProtocol", "redColor"]
+- ["PSo14NSSecureCoding", "CGColor"]
+- ["PSo14NSSecureCoding", "darkTextColor"]
+- ["PSo14NSSecureCoding", "redColor"]
+- ["Ps16SignedNumberType", "init"]
+- ["Ps10Strideable", "init"]
+- ["CSo7UIColor", "CGColor"]
+- ["CSo7UIColor", "darkTextColor"]
+- ["CSo7UIColor", "redColor"]
+- ["CSo8UIScreen", "bounds"]
+- ["CSo8UIScreen", "mainScreen"]
+- ["PSo18UITraitEnvironment", "bounds"]
+- ["PSo18UITraitEnvironment", "mainScreen"]
+- ["Ps33_BuiltinBooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- ["Ps19_CVarArgAlignedType", "init"]
+- ["Ps22_CVarArgPassedAsDouble", "init"]
+- ["Ps24_ColorLiteralConvertible", "CGColor"]
+- ["Ps24_ColorLiteralConvertible", "darkTextColor"]
+- ["Ps24_ColorLiteralConvertible", "redColor"]
+- ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- ["Ps21_ObjectiveCBridgeable", "init"]
+- ["Ps12_Reflectable", "_getBuiltinLogicValue"]
+- ["Ps12_Reflectable", "height"]
+- ["Ps12_Reflectable", "init"]
+- ["Ps12_Reflectable", "size"]
+- ["Ps12_Reflectable", "width"]
+depends-nominal:
+- "Ps16AbsoluteValuable"
+- "Ps9AnyObject"
+- "Sb"
+- "Ps25BooleanLiteralConvertible"
+- "Ps11BooleanType"
+- "V12CoreGraphics7CGFloat"
+- "VSC6CGRect"
+- "VSC6CGSize"
+- "Ps11CVarArgType"
+- "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps23FloatLiteralConvertible"
+- "Ps17FloatingPointType"
+- "Ps8Hashable"
+- "Ps25IntegerLiteralConvertible"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo14NSSecureCoding"
+- "Ps16SignedNumberType"
+- "Ps10Strideable"
+- "CSo7UIColor"
+- "CSo8UIScreen"
+- "PSo18UITraitEnvironment"
+- "Ps33_BuiltinBooleanLiteralConvertible"
+- "Ps19_CVarArgAlignedType"
+- "Ps22_CVarArgPassedAsDouble"
+- "Ps24_ColorLiteralConvertible"
+- "Ps21_ObjectiveCBridgeable"
+- "Ps12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/Swift_2.3.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/Swift_2.3.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/Swift_2.3.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/Swift_2.3.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/Swift_2.3.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/Swift_2.3.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/Swift_2.3.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/Swift_2.3.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "e293eada8793af8123ce3779b75d8f38"

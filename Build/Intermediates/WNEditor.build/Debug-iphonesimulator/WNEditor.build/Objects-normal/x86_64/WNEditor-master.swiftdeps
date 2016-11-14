@@ -1,0 +1,13 @@
+version: "Apple Swift version 2.3 (swiftlang-800.10.12 clang-800.0.38)"
+options: "c7b09786cbb19532f21d026d20729205"
+build_time: [532455274, 716820000]
+inputs:
+  "/Users/David/\u767E\u5EA6\u4E91\u540C\u6B65\u76D8/\u8707\u871C\u56E2\u516C\u53F8\u76F8\u5173/\u516C\u53F8\u9879\u76EE/WNEditor/WNEditor/ZYColumnViewController.swift": [532455273, 0]
+  "/Users/David/\u767E\u5EA6\u4E91\u540C\u6B65\u76D8/\u8707\u871C\u56E2\u516C\u53F8\u76F8\u5173/\u516C\u53F8\u9879\u76EE/WNEditor/WNEditor/ZYColumnUpPromptView.swift": [532453456, 0]
+  "/Users/David/\u767E\u5EA6\u4E91\u540C\u6B65\u76D8/\u8707\u871C\u56E2\u516C\u53F8\u76F8\u5173/\u516C\u53F8\u9879\u76EE/WNEditor/WNEditor/ViewController.swift": [532455027, 0]
+  "/Users/David/\u767E\u5EA6\u4E91\u540C\u6B65\u76D8/\u8707\u871C\u56E2\u516C\u53F8\u76F8\u5173/\u516C\u53F8\u9879\u76EE/WNEditor/WNEditor/ZYColumnItem.swift": [532455274, 0]
+  "/Users/David/\u767E\u5EA6\u4E91\u540C\u6B65\u76D8/\u8707\u871C\u56E2\u516C\u53F8\u76F8\u5173/\u516C\u53F8\u9879\u76EE/WNEditor/WNEditor/ZYColumnDownPromptView.swift": [532454186, 0]
+  "/Users/David/\u767E\u5EA6\u4E91\u540C\u6B65\u76D8/\u8707\u871C\u56E2\u516C\u53F8\u76F8\u5173/\u516C\u53F8\u9879\u76EE/WNEditor/WNEditor/ZYColumnHScrollView.swift": [532454264, 0]
+  "/Users/David/\u767E\u5EA6\u4E91\u540C\u6B65\u76D8/\u8707\u871C\u56E2\u516C\u53F8\u76F8\u5173/\u516C\u53F8\u9879\u76EE/WNEditor/WNEditor/ZYColumnSpreadView.swift": [532454580, 0]
+  "/Users/David/\u767E\u5EA6\u4E91\u540C\u6B65\u76D8/\u8707\u871C\u56E2\u516C\u53F8\u76F8\u5173/\u516C\u53F8\u9879\u76EE/WNEditor/WNEditor/ZYColumnConfig.swift": [532452322, 0]
+  "/Users/David/\u767E\u5EA6\u4E91\u540C\u6B65\u76D8/\u8707\u871C\u56E2\u516C\u53F8\u76F8\u5173/\u516C\u53F8\u9879\u76EE/WNEditor/WNEditor/AppDelegate.swift": [532454767, 0]
