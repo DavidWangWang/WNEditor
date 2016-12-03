@@ -408,7 +408,7 @@ extension ZYColumnSpreadView {
                         // 把移动view的下一个view移动到记录的view的位置(valuePoint)，并把下一view的位置记为新的nextPoint，并把view的tag值-1,依次类推
                         
                         UIView.animateWithDuration(kSpreadDuration, animations: {
-                            for i in fromIndex + 1 ... toIndex {
+                            for i in (fromIndex + 1 ... toIndex).reverse() {
                                 let nextItem = self.viewWithTag(i) as! ZYColumnItem
                                 self.nextPoint = nextItem.center
                                 nextItem.center = self.valuePoint

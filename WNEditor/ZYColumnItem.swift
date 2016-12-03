@@ -53,7 +53,7 @@ class ZYColumnItem: UIView {
         item.frame = CGRect(x:0 , y: 0, width:self.frame.width, height: self.frame.height)
         item.setTitle(title, forState: .Normal)
         item.setTitleColor(UIColor.darkGrayColor(), forState: .Normal)
-        item.setBackgroundImage(UIImage(named: "column_item_bg"), forState:.Normal)
+        item.setBackgroundImage(UIImage(named: "column_item_bg@2x.png"), forState:.Normal)
         item.userInteractionEnabled = false
         if ((title as NSString).length == 4)  {
             item.titleLabel?.font = UIFont.systemFontOfSize(13)
@@ -68,7 +68,7 @@ class ZYColumnItem: UIView {
         // 添加删除图标
         let WH = ZYinch55() ? 20 : (ZYinch47() ? 16 : 14)
         delBtn = UIButton(frame: CGRect(x: -1, y: -4, width: WH, height: WH))
-        delBtn.setImage(UIImage(named: "column_edit_delete"), forState: .Normal)
+        delBtn.setImage(UIImage(named: "column_edit_delete@2x.png"), forState: .Normal)
         
         delBtn.addTarget(self, action: #selector(self.delBtnDidClick(_:)), forControlEvents: .TouchUpInside)
         

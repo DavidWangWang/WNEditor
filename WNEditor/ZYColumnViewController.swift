@@ -190,7 +190,7 @@ extension ZYColumnViewController {
         bgView.addSubview(spreadBtn)
         spreadBtn.backgroundColor = UIColor.clearColor()
         spreadBtn.adjustsImageWhenHighlighted = false
-        spreadBtn.setImage(UIImage(named: "column_spread"), forState: UIControlState.Normal)
+        spreadBtn.setImage(UIImage(named: "column_spread@2x.png"), forState: UIControlState.Normal)
             // 按钮点击事件监听
         spreadBtn.addTarget(self, action: #selector(self.spreadBtnClick(_:)), forControlEvents: .TouchUpInside)
         

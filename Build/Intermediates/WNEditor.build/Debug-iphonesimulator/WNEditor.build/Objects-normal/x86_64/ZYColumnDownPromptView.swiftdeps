@@ -7,15 +7,15 @@ provides-member:
 - ["C8WNEditor22ZYColumnDownPromptView", ""]
 provides-dynamic-lookup:
 depends-top-level:
-- !private "kColumnMarginW"
 - !private "fatalError"
+- "ZYColumnDownPromptView"
 - !private "StringLiteralType"
-- "UIView"
+- !private "UIColor"
 - "NSCoder"
 - !private "UILabel"
 - "CGRect"
-- "ZYColumnDownPromptView"
-- !private "UIColor"
+- "UIView"
+- !private "kColumnMarginW"
 depends-member:
 - !private ["Ps9AnyObject", "CGRect"]
 - !private ["Ps9AnyObject", "UIColor"]
